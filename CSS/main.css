@@ -1,0 +1,25 @@
+.carousel-item{
+    height: 30rem;
+}
+
+#gallery{
+    background-color:#f8edeb;
+}
+
+#reviews{
+    background-color:#f8edeb;
+}
+
+#star-reviews{
+    height: 250px;
+    width: 450px;
+}
+
+#wedding-wire-reviews{
+    height: 250px; 
+    font-size: 10.5pt;  
+}
+
+#couples-choice-award{
+   width: 450px; 
+}
