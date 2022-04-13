@@ -24,4 +24,13 @@
    width: 450px; 
 }
 
-/* TODO: add the css for resizing the images */
+.carousel-item > img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    /* Set a width on the image; at present this is not flexible */
+    max-width: 80%; 
+    height: 40rem;
+    margin: 0 auto;
+  }
